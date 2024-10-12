@@ -1,5 +1,5 @@
 {
-  "name": "PRINXE--MD",
+  "name": "عامــــــر❥مــــــغل",
   "description": "PRINXE-MD A SUPER WHATSAPP USER BOT",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "repository": "https://github.com/PRINCE-GDS/PRINXE-MD",
@@ -9,7 +9,7 @@
       "OWNERS": {
       "description": "Put your Number as Owner",
       "required": true,
-      "value": "923092668xxx;❣️Prince"
+      "value": "923290323323"
       },
      "MODE": {
       "description": "mode public or private",
@@ -64,12 +64,12 @@
     "BOT_NAME": {
       "description": "Put your BOT a name",
       "required": true,
-      "value": "🎡𝗣𝗥𝗜𝗡𝗫𝗘-𝗠𝗗🎡"
+      "value": "🎡عامــــــر❥مــــــغل🎡"
       },
     "PACK_NAME": {
       "description": "Put your stickers pack name",
       "required": false,
-      "value": "Prince🎗️❣️"
+      "value": "عامــــــر❥مــــــغل"
       },
     "DATABASE_URL": {
       "description": "Put your MongoDB here",
@@ -79,7 +79,7 @@
     "DL_MSG": {
       "description": "Video downloader caption",
       "required": true,
-      "value": "📥-------- *ᴘʀɪɴᴄᴇ-ᴍᴅ* --------📥"
+      "value": "📥-------- *عامــــــر❥مــــــغل* --------📥"
       },
     "STATUSVIEW": {
       "description": "Make it true if you want the bot to auto view status",
